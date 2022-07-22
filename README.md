@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0321#9906
+- 👀 I’m interested in Coding and scripting
+- 🌱 I’m currently learning Lua
